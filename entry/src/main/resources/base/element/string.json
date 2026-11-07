@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "选课方案对比器主模块" },
+    { "name": "ability_desc", "value": "选课方案对比器入口" },
+    { "name": "EntryAbility_label", "value": "选课方案对比器" }
+  ]
+}
